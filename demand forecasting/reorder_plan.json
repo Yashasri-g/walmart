@@ -1,0 +1,76 @@
+{
+    "Store_1": {
+        "Dept_1": {
+            "forecast_4weeks": 108265.67,
+            "current_stock": 75000,
+            "at_risk": true,
+            "recommendation": "Reorder Needed",
+            "action_reorder_qty": 33265.67
+        },
+        "Dept_2": {
+            "forecast_4weeks": 181321.43,
+            "current_stock": 120000,
+            "at_risk": true,
+            "recommendation": "Reorder Needed",
+            "action_reorder_qty": 61321.43
+        },
+        "Dept_5": {
+            "forecast_4weeks": 123515.95,
+            "current_stock": 90000,
+            "at_risk": true,
+            "recommendation": "Reorder Needed",
+            "action_reorder_qty": 33515.95
+        },
+        "Dept_10": {
+            "forecast_4weeks": 118176.1,
+            "current_stock": 115000,
+            "at_risk": true,
+            "recommendation": "Reorder Needed",
+            "action_reorder_qty": 3176.1
+        },
+        "Dept_20": {
+            "forecast_4weeks": 13807.7,
+            "current_stock": 10000,
+            "at_risk": true,
+            "recommendation": "Reorder Needed",
+            "action_reorder_qty": 3807.7
+        }
+    },
+    "Store_2": {
+        "Dept_1": {
+            "forecast_4weeks": 144322.31,
+            "current_stock": 95000,
+            "at_risk": true,
+            "recommendation": "Reorder Needed",
+            "action_reorder_qty": 49322.31
+        },
+        "Dept_2": {
+            "forecast_4weeks": 258172.96,
+            "current_stock": 140000,
+            "at_risk": true,
+            "recommendation": "Reorder Needed",
+            "action_reorder_qty": 118172.96
+        },
+        "Dept_5": {
+            "forecast_4weeks": 150187.86,
+            "current_stock": 70000,
+            "at_risk": true,
+            "recommendation": "Reorder Needed",
+            "action_reorder_qty": 80187.86
+        },
+        "Dept_10": {
+            "forecast_4weeks": 142153.03,
+            "current_stock": 100000,
+            "at_risk": true,
+            "recommendation": "Reorder Needed",
+            "action_reorder_qty": 42153.03
+        },
+        "Dept_20": {
+            "forecast_4weeks": 19727.9,
+            "current_stock": 8000,
+            "at_risk": true,
+            "recommendation": "Reorder Needed",
+            "action_reorder_qty": 11727.9
+        }
+    }
+}
