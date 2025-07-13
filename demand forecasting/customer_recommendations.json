@@ -1,0 +1,96 @@
+{
+    "Store_1": {
+        "Dept_1": {
+            "name": "Wireless Headphones",
+            "category": "Electronics",
+            "forecasted_sales": 33094,
+            "current_stock": 75000,
+            "availability": "In Stock",
+            "recommendation_tag": "Popular Pick",
+            "description": "High-quality wireless headphones with noise cancellation."
+        },
+        "Dept_2": {
+            "name": "Smartphone",
+            "category": "Electronics",
+            "forecasted_sales": 43948,
+            "current_stock": 120000,
+            "availability": "In Stock",
+            "recommendation_tag": "Trending",
+            "description": "Latest smartphone model with advanced camera features."
+        },
+        "Dept_5": {
+            "name": "Phone Case",
+            "category": "Accessories",
+            "forecasted_sales": 22670,
+            "current_stock": 90000,
+            "availability": "In Stock",
+            "recommendation_tag": "Popular Pick",
+            "description": "Durable and stylish phone cases available in various colors."
+        },
+        "Dept_10": {
+            "name": "Screen Protector",
+            "category": "Accessories",
+            "forecasted_sales": 29475,
+            "current_stock": 115000,
+            "availability": "In Stock",
+            "recommendation_tag": "Popular Pick",
+            "description": "Protect your phone screen from scratches and cracks."
+        },
+        "Dept_20": {
+            "name": "Wireless Charger",
+            "category": "Electronics",
+            "forecasted_sales": 3003,
+            "current_stock": 10000,
+            "availability": "In Stock",
+            "recommendation_tag": "Popular Pick",
+            "description": "Fast wireless charger compatible with latest devices."
+        }
+    },
+    "Store_2": {
+        "Dept_1": {
+            "name": "Wireless Headphones",
+            "category": "Electronics",
+            "forecasted_sales": 46789,
+            "current_stock": 95000,
+            "availability": "In Stock",
+            "recommendation_tag": "Trending",
+            "description": "High-quality wireless headphones with noise cancellation."
+        },
+        "Dept_2": {
+            "name": "Smartphone",
+            "category": "Electronics",
+            "forecasted_sales": 62950,
+            "current_stock": 140000,
+            "availability": "In Stock",
+            "recommendation_tag": "Trending",
+            "description": "Latest smartphone model with advanced camera features."
+        },
+        "Dept_5": {
+            "name": "Phone Case",
+            "category": "Accessories",
+            "forecasted_sales": 25266,
+            "current_stock": 70000,
+            "availability": "In Stock",
+            "recommendation_tag": "Popular Pick",
+            "description": "Durable and stylish phone cases available in various colors."
+        },
+        "Dept_10": {
+            "name": "Screen Protector",
+            "category": "Accessories",
+            "forecasted_sales": 33999,
+            "current_stock": 100000,
+            "availability": "In Stock",
+            "recommendation_tag": "Popular Pick",
+            "description": "Protect your phone screen from scratches and cracks."
+        },
+        "Dept_20": {
+            "name": "Wireless Charger",
+            "category": "Electronics",
+            "forecasted_sales": 4005,
+            "current_stock": 8000,
+            "availability": "In Stock",
+            "recommendation_tag": "Popular Pick",
+            "description": "Fast wireless charger compatible with latest devices."
+        }
+    }
+}
